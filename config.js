@@ -2,7 +2,7 @@ const nameGirl = 'Vanh';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Thư xin lỗi';
 const titleCard = 'Gửi đến Vanh';
-const contentCard = xin lỗi bạn Vanh nhé xin lỗi vì sự nóng giận của tôi . Chân thành xin lỗi bạn'
+const contentCard = 'xin lỗi bạn Vanh nhé xin lỗi vì sự nóng giận của tôi . Chân thành xin lỗi bạn'
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
